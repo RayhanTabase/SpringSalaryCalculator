@@ -49,7 +49,7 @@ Here are some additional relevant rules:
 4.	Gross salary is made of basic salary and total allowance amounts
 
 
-![alt text](https://github.com/RayhanTabase/SpringSalaryCalculator/blob/main/thumbnail.pngraw=true)
+![alt text](https://github.com/RayhanTabase/SpringSalaryCalculator/blob/main/thumbnail.png?raw=true)
  
  
  
