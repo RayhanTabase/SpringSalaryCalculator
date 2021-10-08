@@ -1,7 +1,7 @@
 # SpringSalaryCalculator
 Springboot app to calculate salary and breakdown using GRA and 3 tier pension data as well as desired net salary
 
-### Example of api structure, send an api POST request with the following fields/keys in the body(desired_salary and allowances)
+## Send an api POST request with the following fields/keys in the body(desired_salary and allowances)
 ### path to api = "localhost:8080/" + "api/grossSalary" ie localhost:8080/api/grossSalary
 ### body of request = 
 ### {
@@ -24,14 +24,14 @@ Springboot app to calculate salary and breakdown using GRA and 3 tier pension da
  }
  
  
- ### The response is a json  with the keys gross_salary, basic_salary, total_tax_due, employee_pension_amount, employer_pension_amount:
-   {
-    "gross_salary": "3026.46",
-    "basic_salary": "2826.46",
-    "total_tax_due": "17.00",
-    "employee_pension_amount": "309.46",
-    "employer_pension_amount": "536.44"
-}
+ ## The response is a json  with the keys gross_salary, basic_salary, total_tax_due, employee_pension_amount, employer_pension_amount:
+ ###  {
+ ###   "gross_salary": "3026.46",
+ ###   "basic_salary": "2826.46",
+ ###   "total_tax_due": "17.00",
+ ###   "employee_pension_amount": "309.46",
+ ###   "employer_pension_amount": "536.44"
+### }
  
   ###  See src/main/package com.example.grossSalary for api code
   ### See src/test for unit tests
