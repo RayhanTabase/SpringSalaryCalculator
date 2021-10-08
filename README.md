@@ -48,7 +48,8 @@ Here are some additional relevant rules:
 3.	PAYE tax is per the current graduated income tax rates of the GRA (Attached below)
 4.	Gross salary is made of basic salary and total allowance amounts
 
-! ``[alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)``
+
+![alt text](https://github.com/RayhanTabase/SpringSalaryCalculator/blob/main/thumbnail.pngraw=true)
  
  
  
