@@ -31,8 +31,8 @@ Springboot app to calculate salary and breakdown using GRA and 3 tier pension da
     "employer_pension_amount": "536.44"
 }
  
-  ###  src/main/package com.example.grossSalary for code api code
-  ### src/test for unit tests
+  ###  See src/main/package com.example.grossSalary for code api code
+  ### See src/test for unit tests
   
   
 
