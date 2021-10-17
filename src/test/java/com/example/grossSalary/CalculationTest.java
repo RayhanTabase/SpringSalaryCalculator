@@ -9,7 +9,7 @@ import java.util.HashMap;
 import static org.junit.jupiter.api.Assertions.*;
 
 @SpringBootTest
-class GrossSalaryServicesTest {
+class CalculationsTest {
 
     @Autowired
     private GrossSalaryServices grossSalaryServices;

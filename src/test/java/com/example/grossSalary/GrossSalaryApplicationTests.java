@@ -10,6 +10,4 @@ class GrossSalaryApplicationTests {
 	void contextLoads() {
 	}
 
-
-
 }
