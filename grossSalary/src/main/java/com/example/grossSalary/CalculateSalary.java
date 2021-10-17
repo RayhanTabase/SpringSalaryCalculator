@@ -38,7 +38,7 @@ public class CalculateSalary {
         String bs = df.format(basic_salary);
         HashMap<String, String> data = new HashMap<String, String>();
         data.put("gross_salary", amount_before_pension);
-        // data.put("total_allowances", df.format(total_allowances));
+        data.put("total_allowances", df.format(total_allowances));
         data.put("basic_salary", bs);
         data.put("total_tax_due", total_tax_payable);
         data.put("employee_pension_amount", employee_pension);
